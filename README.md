@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,git,github)
