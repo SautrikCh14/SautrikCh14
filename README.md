@@ -1,4 +1,7 @@
-## Hi there 👋
+
+## Hi, I'm Sautrik
+
+CSE undergraduate who enjoys building web projects and solving problems.
 
 <!--
 **SautrikCh14/SautrikCh14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
