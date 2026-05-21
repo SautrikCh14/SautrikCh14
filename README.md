@@ -180,8 +180,8 @@ const developer = {
 ![React](https://img.shields.io/badge/React-65%25-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=20232A)
 ![Node.js](https://img.shields.io/badge/Node.js-70%25-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a2e)
 ![Python](https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a2e)
-![C++](https://img.shields.io/badge/C++-70%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a2e)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-60%25-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e)
+![C++](https://img.shields.io/badge/C++-5%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-10%25-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e)
 
 </div>
 
