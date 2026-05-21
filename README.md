@@ -286,6 +286,20 @@ const developer = {
 </div>
 
 <br>
+<!-- BUY ME A COFFEE -->
+<div align="center">
 
+<br>
+
+### ☕ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗠𝘆 𝗪𝗼𝗿𝗸
+
+<a href="https://buymeacoffee.com/SautrikCh14" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
+</a>
+
+<br>
+<br>
+
+</div>
 <!-- ANIMATED FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
