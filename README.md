@@ -1,5 +1,5 @@
 <div align="center">
-
+s
 <!-- ANIMATED GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Sautrik%20Chattopadhyay&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
