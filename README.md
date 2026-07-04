@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-I'm a **CSE undergraduate** who enjoyss building web projects and solving problems. I architect end-to-end web experiences — from clean, interactive frontends to robust backends. I'm passionate about open source and continuously levelling up my stack.
+I'm a **CSE undergraduate** who enjoys building web projects and solving problems. I architect end-to-end web experiences — from clean, interactive frontends to robust backends. I'm passionate about open source and continuously levelling up my stack.
 
 <br/>
 
