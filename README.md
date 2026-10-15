@@ -293,7 +293,7 @@ const developer = {
 
 ### ☕ 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗠𝘆 𝗪𝗼𝗿𝗸
 
-<a href="https://buymeacoffee.com/SautrikCh14" target="_blank">
+<a href="https://buymeacoffee.com/sautrikch14" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
 
